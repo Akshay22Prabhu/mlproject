@@ -20,6 +20,8 @@ class CustomException(Exception):
         return self.error_message
     
 
+## test exception & logging of exception
+
 # if __name__=="__main__":
 
 #     try:
